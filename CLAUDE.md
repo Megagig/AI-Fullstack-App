@@ -1,4 +1,3 @@
-
 Default to using Bun instead of Node.js.
 
 - Use `bun <file>` instead of `node <file>` or `ts-node <file>`
@@ -106,6 +105,7 @@ bun --hot ./index.ts
 For more information, read the Bun API docs in `node_modules/bun-types/docs/**.md`.
 [byterover-mcp]
 
-# important 
-always use byterover-retrieve-knowledge tool to get the related context before any tasks 
+# important
+
+always use byterover-retrieve-knowledge tool to get the related context before any tasks
 always use byterover-store-knowledge to store all the critical informations after sucessful tasks
